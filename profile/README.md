@@ -14,8 +14,8 @@ NEYX is the child of years of experience in the industry and months of pivoted p
   <BR>![Last Commit](https://img.shields.io/github/last-commit/NEYXHQ/NEYX)
 
 ## Follow us
-![Twitter](https://twitter.com/NeyxHQ)
-![Youtube](https://www.youtube.com/channel/UClka2upAni4OMzBpEVVJYGw)
+[Twitter](https://twitter.com/NeyxHQ)
+
 
 ## Join the community
 Telegram - Coming soon
