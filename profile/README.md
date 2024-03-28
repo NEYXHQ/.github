@@ -10,7 +10,7 @@ NEYX is the child of years of experience in the industry and months of pivoted p
   <BR>![Last Commit](https://img.shields.io/github/last-commit/NEYXHQ/Evaluation-Hub)
 
 
-* [NEYX](https://github.com/NEYXHQ/NEYX): A proto vanilla COSMOS-SDK chain for sandboxing with some modules imported from other chains for possible integration
+* [NEYX](https://github.com/NEYXHQ/NEYX): A proto vanilla COSMOS-SDK chain for sandboxing 
   <BR>![Last Commit](https://img.shields.io/github/last-commit/NEYXHQ/NEYX)
 
 ## Follow us
