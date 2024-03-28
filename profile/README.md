@@ -6,7 +6,7 @@ NEYX aims to bridge the gap between blockchain capabilities and everyday users, 
 ## Main Repositories
 NEYX is the child of years of experience in the industry and months of pivoted projects to find the right angle of attack on Real World Assets. We are at the design / funding phase. The following repositories represent what NEYX is shaping to be while being technically at a research stage
 
-* [Evaluation-Hub](https://github.com/NEYXHQ/Evaluation-Hub):Research, interesting code bits, theoritical papers ... Everything of interest for the future of NEYX
+* [Evaluation-Hub](https://github.com/NEYXHQ/Evaluation-Hub): Research, interesting code bits, theoritical papers ... Everything of interest for the future of NEYX
   <BR>![Last Commit](https://img.shields.io/github/last-commit/NEYXHQ/Evaluation-Hub)
 
 
