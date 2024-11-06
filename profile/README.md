@@ -17,12 +17,6 @@ NEYX is the child of years of experience in the industry and months of pivoted p
 
 * [White Paper Download](https://github.com/NEYXHQ/White-Paper/raw/main/NEYX-WhitePaper.pdf) and [Value Proposition](https://github.com/NEYXHQ/White-Paper/raw/main/NEYX-Value-Proposition.pdf) : The future of blockchain and AI or how AI can enhance existing oracles and allow the technology to reach new markets
   <BR>![NEYX](https://img.shields.io/badge/NEYX-Vision-orange)  
-  
-## Follow us
-[Twitter](https://twitter.com/NeyxHQ)
 
-
-## Join the community
-Telegram - Coming soon
 
 
