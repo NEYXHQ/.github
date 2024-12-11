@@ -16,7 +16,7 @@ NEYX is the child of years of experience in the industry and months of pivoted p
   <BR>![NEYX](https://img.shields.io/badge/NEYX-Research-orange)     ![Last Commit](https://img.shields.io/github/last-commit/NEYXHQ/Evaluation-Hub)
 
 * [White Paper Download](https://github.com/NEYXHQ/White-Paper/raw/main/NEYX-WhitePaper.pdf) and [Value Proposition](https://github.com/NEYXHQ/White-Paper/raw/main/NEYX-Value-Proposition.pdf) : The future of blockchain and AI or how AI can enhance existing oracles and allow the technology to reach new markets
-  <BR>![NEYX](https://img.shields.io/badge/NEYX-Vision-orange)  
+  <BR>![NEYX](https://img.shields.io/badge/NEYX-Vision-orange)    ![Last Commit](https://img.shields.io/github/last-commit/NEYXHQ/Evaluation-Hub)
 
 
 
