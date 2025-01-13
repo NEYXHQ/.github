@@ -9,7 +9,7 @@ NEYX is the child of years of experience in the industry and months of pivoted p
 * [Phase-1](https://github.com/NEYXHQ/phase1): Initial Ethereum smart contracts forey to connect AI Oracles - Stage 1 - This is where the future on NEYX is being built
   <BR>![NEYX](https://img.shields.io/badge/NEYX-Development-orange)     ![Last Commit](https://img.shields.io/github/last-commit/NEYXHQ/phase1)
 
-* [NEYX App](https://github.com/NEYXHQ/NEYXConnect](https://github.com/NEYXHQ/NEYXConnect)): A React Web App hosted on GCP to Connect Phase1 to the web
+* [NEYX App](https://github.com/NEYXHQ/NEYXConnect)): A React Web App hosted on GCP to Connect Phase1 to the web
   <BR>![NEYX](https://img.shields.io/badge/NEYX-Development-orange)     ![Last Commit](https://img.shields.io/github/last-commit/NEYXHQ/NEYXConnect)
 
 * [Evaluation-Hub](https://github.com/NEYXHQ/Evaluation-Hub): Research, interesting code bits, theoritical papers ... Everything of interest for the future of NEYX
