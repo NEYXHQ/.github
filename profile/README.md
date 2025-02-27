@@ -9,8 +9,11 @@ NEYX is the child of years of experience in the industry and months of pivoted p
 * [Phase-2](https://github.com/NEYXHQ/phase2): Second Ethereum smart contracts forey to connect AI Oracles - Stage 2 - This is where the future on NEYX is being built
   <BR>![NEYX](https://img.shields.io/badge/NEYX-Development-orange)     ![Last Commit](https://img.shields.io/github/last-commit/NEYXHQ/phase2)
 
-* [NEYX App](https://github.com/NEYXHQ/NEYXConnect)): A React Web App hosted on GCP to Connect Phase1 to the web
+* [NEYX App](https://github.com/NEYXHQ/NEYXConnect): A React Web App hosted on GCP to Connect Phase1 to the web
   <BR>![NEYX](https://img.shields.io/badge/NEYX-Development-orange)     ![Last Commit](https://img.shields.io/github/last-commit/NEYXHQ/NEYXConnect)
+
+* [WFounders use case App](https://github.com/NEYXHQ/WFoundersConnect): Connect Wfounders to NEYX Ecosystem
+  <BR>![NEYX](https://img.shields.io/badge/NEYX-Development-orange)     ![Last Commit](https://img.shields.io/github/last-commit/NEYXHQ/WFoundersConnect)
 
 * [White Paper Download](https://github.com/NEYXHQ/White-Paper/raw/main/NEYX-WhitePaper.pdf) and [Value Proposition](https://github.com/NEYXHQ/White-Paper/raw/main/NEYX-Value-Proposition.pdf) : The future of blockchain and AI or how AI can enhance existing oracles and allow the technology to reach new markets
   <BR>![NEYX](https://img.shields.io/badge/NEYX-Vision-orange)    ![Last Commit](https://img.shields.io/github/last-commit/NEYXHQ/Evaluation-Hub)
